@@ -3,9 +3,9 @@ import telebot
 from telebot import types
 import wikipedia
 # Ключ для телеграмм бота
-bot = telebot.TeleBot("6162983210:AAHNpEDY7LaxM_UgxFUfn6gUyJLAiI3KPjc")
+bot = telebot.TeleBot("key")
 # Ключ для OpenAI и их приложений
-openai.api_key = ("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")
+openai.api_key = ("key")
 # Устанавливаем русский язык в Wikipedia
 wikipedia.set_lang("ru")
 
