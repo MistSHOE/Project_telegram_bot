@@ -43,8 +43,8 @@ bot.polling()
 # import telebot
 # import openai
 #
-# bot = telebot.TeleBot("6162983210:AAHNpEDY7LaxM_UgxFUfn6gUyJLAiI3KPjc")
-# openai.api_key = "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"
+# bot = telebot.TeleBot("key")
+# openai.api_key = "key"
 #
 #
 # @bot.message_handler(content_types=["text"])
