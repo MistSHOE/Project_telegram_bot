@@ -3,10 +3,10 @@ import openai
 import os
 
 # устанавливаем ключ API OpenAI из переменной окружения
-openai.api_key = ("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")
+openai.api_key = ("key")
 
 # создаем экземпляр телеграм бота
-bot = telebot.TeleBot('6162983210:AAHNpEDY7LaxM_UgxFUfn6gUyJLAiI3KPjc')
+bot = telebot.TeleBot('key')
 
 
 @bot.message_handler(commands=['davinci'])
