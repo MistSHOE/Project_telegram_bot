@@ -4,8 +4,8 @@
 # from telebot import types
 # import wiki_modul
 #
-# bot = telebot.TeleBot("6162983210:AAHNpEDY7LaxM_UgxFUfn6gUyJLAiI3KPjc")
-# openai.api_key = "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"
+# bot = telebot.TeleBot("key")
+# openai.api_key = "key"
 #
 #
 # # Функция, обрабатывающая команду /start
